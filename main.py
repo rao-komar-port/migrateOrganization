@@ -6,7 +6,7 @@ import pandas as pd
 import math
 import openpyxl
  
-API_URL = 'https://api.getport.io/v1'
+API_URL = 'https://api.us.getport.io/v1'
 
 global error 
 error = False
